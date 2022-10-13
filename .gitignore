@@ -7,7 +7,7 @@
 *.jpg
 *.jpeg
 *.svg
-*.png
+# *.png
 *.bmp
 
 # User-specific files
